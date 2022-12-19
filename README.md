@@ -1,5 +1,5 @@
 # CRUD-Aplication
-REACT, MSQL, Express, Typescript, TypeORM  
+REACT, MSQL, Express, TypeORM  
 cd client  
 npm install  
 client start : npm start  
